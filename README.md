@@ -2,8 +2,7 @@
 - 👀 I’m interested in ... Machine Learning
 - 🌱 I’m currently learning ... Mechanical Engineering
 - 💞️ I’m looking to collaborate on ... Data Analysis projects
-- 📫 How to reach me ... 080bme017.kabigya@pcampus.edu.np
-- 😄 Pronouns: ...
+- 📫 How to reach me ... www.linkedin.com/in/kabigyapokharel---080bme017.kabigya@pcampus.edu.np
 - ⚡ Fun fact: ... Damnn! I love learning something new
 
 <!---
